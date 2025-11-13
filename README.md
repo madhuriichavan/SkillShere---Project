@@ -1,5 +1,5 @@
-<h5>Title	:	 Skill-Sharing Platform		</h5>
 
+ <h3>Title	:	 SkillPhere Skill-Sharing Platform</h3>
  <h2>Platform	:	 MongoDB, ExpressJS, ReactJS, NodeJS</h2>			 
  	Description	:	SkillSphere is a full-stack MERN Learning Management System I developed, delivering a secure,
   role-based e-learning platform for Admins, Instructors, and Learners. 
